@@ -1,0 +1,7 @@
+name "doha"
+description "CLI Program to quickly blog your thoughts and events to yourself."
+authors "fruityloops1"
+copyright "Copyright © 2021, fruityloops1"
+license "BSD 3-Clause"
+dependency "tinyredis" version="~>2.2.1"
+targetType "executable"
