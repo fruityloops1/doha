@@ -1,0 +1,6 @@
+{
+	"fileVersion": 1,
+	"versions": {
+		"tinyredis": "2.2.1"
+	}
+}
