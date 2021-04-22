@@ -16,7 +16,9 @@ Server Config is in ~/.config/.doha.sdl`
 ```
 
 You can store messages in different channels:
+
 `doha music just heard this song called ______`
+
 `doha work finish project by 28th`
 
 You can display messages like this:
