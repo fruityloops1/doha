@@ -39,4 +39,4 @@ The Configuration is pretty straightforward:
 server "127.0.0.1" port=6379
 auth "" use=false
 ```
-If you use Authentication on your Redis Server, put your password in "auth" and set "use" to true.
+If you use Authentication on your Redis Server, put your password in `auth` and set `use` to true.
