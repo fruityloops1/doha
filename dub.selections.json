@@ -1,6 +1,9 @@
 {
 	"fileVersion": 1,
 	"versions": {
-		"tinyredis": "2.2.1"
+		"sdlang-d": "0.10.6",
+		"taggedalgebraic": "0.11.20",
+		"tinyredis": "2.2.1",
+		"unit-threaded": "0.7.55"
 	}
 }
