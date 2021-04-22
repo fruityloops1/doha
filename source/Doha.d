@@ -87,7 +87,9 @@ Where:
   <channel>           Channel to push/read message to/from
   <amount>            Amount of messages to display
 <option>:
-  -r                  Display messages`
+  -r                  Display messages
+
+Server Config is in ~/.config/.doha.sdl`
 	);
 	exit(1);
 }
